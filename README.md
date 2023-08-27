@@ -5,7 +5,7 @@
 
 ![Snavigation.png](https://s2.loli.net/2022/07/15/FE6U2BJCynHDep8.jpg)
 
-> 重构中，尚未完成
+> 重构中，尚未完成。
 
 ### Demo
 
